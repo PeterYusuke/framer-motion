@@ -16,6 +16,11 @@
   font-family: var(--font-geist-sans);
 }
 
+.current_video {
+  height: 500px;
+  background-color: white;
+}
+
 @media (prefers-color-scheme: dark) {
   .page {
     --gray-rgb: 255, 255, 255;
